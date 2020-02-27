@@ -36,10 +36,10 @@ public class BankAccount {
 		System.out.println(this.name + " - finish deposit... |" + this.balance);
 		
 		if (this.name.indexOf("2") >= 0 ){
-			notifyAll(); //release this monitor, notify to others thread to withdraw
+			notifyAll(); //notify all threads waitingi
 		}
 		else {
-			notify(); //release this monitor, notify to others thread to withdraw
+			notify(); //notify a random thread waiting
 		}
 	}
 	
