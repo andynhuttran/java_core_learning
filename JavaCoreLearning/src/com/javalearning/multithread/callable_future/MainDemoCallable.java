@@ -28,7 +28,7 @@ public class MainDemoCallable {
 			
 			@Override
 			public void run() {
-				for (Future<String> f : list) {			
+				for (Future<String> f : list) {
 					try {
 						String msg = f.get();
 						System.out.println(msg);
