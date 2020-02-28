@@ -17,11 +17,18 @@ public class MainDemoRecursiveTask {
 		threadPool.execute(folder2);
 		threadPool.execute(folder3);
 		
+		while (!folder1.isDone() || !folder2.isDone() || !folder3.isDone()){
+			System.out.println("waiting...");
+		}
+		
+		
 		System.out.println("houseFolder: " + folder1.join()/(1024.0*1024.0f) + " MB");
 		System.out.println("downloadFolder: " + folder2.join()/(1024*1024.0f) + " MB");
 		System.out.println("pictureFolder: " + folder3.join()/(1024*1024.0f) + " MB");
 		
 		System.out.println("--End main thread");
+		
+		
 	}
 
 }
