@@ -1,4 +1,4 @@
-package com.javalearning.multithread.callable_future;
+package com.javalearning.multithread.callable_runnable_future;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,9 +20,6 @@ public class MainDemoCallable {
 			Future<String> f = execute.submit(task);
 			list.add(f);			
 		}
-		
-		
-		
 		
 		new Thread(new Runnable() {
 			

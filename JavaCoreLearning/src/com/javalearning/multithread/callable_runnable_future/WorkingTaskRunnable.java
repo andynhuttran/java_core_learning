@@ -1,4 +1,4 @@
-package com.javalearning.multithread.callable_future;
+package com.javalearning.multithread.callable_runnable_future;
 
 import java.util.Random;
 import java.util.concurrent.Callable;

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.RecursiveTask;
 
-public class CalculateFileSizeTask extends RecursiveTask<Long> {
+public class CalculateFileRecursiveTask extends RecursiveTask<Long> {
 
 	/**
 	 * 
@@ -15,11 +15,11 @@ public class CalculateFileSizeTask extends RecursiveTask<Long> {
 	
 	private File file;
 	
-	public CalculateFileSizeTask(String filePath) {
+	public CalculateFileRecursiveTask(String filePath) {
 		this(new File(filePath));
 	}
 	
-	public CalculateFileSizeTask(File file) {
+	public CalculateFileRecursiveTask(File file) {
 		this.file = Objects.requireNonNull(file, "File is null");
 	}
 	
@@ -30,15 +30,15 @@ public class CalculateFileSizeTask extends RecursiveTask<Long> {
 			return file.length();
 		}
 		
-		List<CalculateFileSizeTask> tasks = new ArrayList<CalculateFileSizeTask>();		
+		List<CalculateFileRecursiveTask> tasks = new ArrayList<CalculateFileRecursiveTask>();		
 		for (File subFile : file.listFiles()) {
-			CalculateFileSizeTask task = new CalculateFileSizeTask(subFile);
+			CalculateFileRecursiveTask task = new CalculateFileRecursiveTask(subFile);
 			task.fork();
 			tasks.add(task);
 		}
 		
 		long result = 0;
-		for (CalculateFileSizeTask task : tasks) {
+		for (CalculateFileRecursiveTask task : tasks) {
 			result += task.join();
 		}
 		
