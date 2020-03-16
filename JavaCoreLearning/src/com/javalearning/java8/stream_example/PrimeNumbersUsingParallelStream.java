@@ -23,15 +23,16 @@ public class PrimeNumbersUsingParallelStream {
 		
 		System.out.println("count: " + count);
 		System.out.println("delta time: " + deltaTime/1000.0f + " seconds");
-
+		
 	}
 	
 	
 	static boolean isPrime(int n) {
-		if (n == 1) return false;
+		if (n <= 1) return false;
+		if (n == 2) return true;
 		
 		//loop from 2 to n/2, then find any number is matched by division evenly
-		boolean result = !IntStream.rangeClosed(2, n/2).anyMatch(i -> n%i == 0);
+		boolean result = IntStream.rangeClosed(2, n/2).noneMatch(i -> n%i == 0);
 				
 		return result;
 	}
