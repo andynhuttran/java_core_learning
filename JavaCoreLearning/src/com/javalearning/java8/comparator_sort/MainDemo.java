@@ -29,7 +29,7 @@ public class MainDemo {
 		
 		
 		//java-8
-		Collections.sort(developers, (o2, o1)->o1.getName().compareTo(o2.getName()) ); //java 8, way 1
+    Collections.sort(developers, (o2, o1)->o1.getName().compareTo(o2.getName()) ); //java 8, way 1
 		
 		developers.sort((d1, d2) -> d1.getAge()-d2.getAge()); //java 8, way 2
 		

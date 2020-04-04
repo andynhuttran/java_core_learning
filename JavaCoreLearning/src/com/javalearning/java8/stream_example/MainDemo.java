@@ -38,7 +38,11 @@ public class MainDemo {
 				.findAny() //get first one found
 				.orElse(new Developer()); //return empty dev if not found
 		
+		dev.setName("cole x");
 		System.out.println(dev);
+		
+		System.out.println("--------------");
+		devs.forEach(System.out::println);
 	}
 	
 	
@@ -63,7 +67,12 @@ public class MainDemo {
 				}) //pick name only
 				.collect(Collectors.toList());
 		
+		//newList.get(0).setName("cole 2");
+		System.out.println("--------------");
 		newList.forEach(System.out::println);
+		
+		System.out.println("--------------");
+		devs.forEach(System.out::println);
 	}
 	
 	
