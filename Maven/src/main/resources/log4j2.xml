@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuartion>
+	
+	<Properties>
+		<Property name="log-format">%d{yyyy-MM-dd HH:mm:ss.SSS} [%-5p] [%t] %c:%L - %msg|%n</Property>
+		
+	</Properties>
+
+	<Appenders>
+		<Console name="write-to-console" target="SYSTEM_OUT">
+			<PatternLayout pattern="${log-format}" />
+		</Console>
+		
+		<File name="write-to-file" fileName="logs/file.log">
+			<PatternLayout>
+				<Pattern>${log-format}</Pattern>
+			</PatternLayout>
+		</File>
+		
+		<File name="write-to-file-error" fileName="logs/file-errors.log">
+			<PatternLayout>
+				<Pattern>${log-format}</Pattern>
+			</PatternLayout>
+		</File>
+		
+		<RollingFile name="write-to-rolling-file" filename="logs/file-rolling.log"
+					filePattern="logs/backup/file-rolling-%i.log">
+			<PatternLayout>
+				<Pattern>${log-format}</Pattern>
+			</PatternLayout>
+			
+			<Policies>				
+				<SizeBasedTriggeringPolicy size="3 KB"/>
+			</Policies>
+			
+		</RollingFile>
+		
+		<RollingRandomAccessFile name="write-to-rolling-random-access-file" filename="logs/file-rolling-access-file.log"
+					filePattern="logs/backup/file-rolling-access-file-%i.log">
+			<PatternLayout>
+				<Pattern>${log-format}</Pattern>
+			</PatternLayout>
+			
+			<Policies>
+				<SizeBasedTriggeringPolicy size="3 KB"/>
+			</Policies>
+			
+		</RollingRandomAccessFile>
+		
+		<Async name="async">
+		
+			<!-- add other appenders -->
+			<AppenderRef ref="write-to-rolling-random-access-file" level="info" />
+			<AppenderRef ref="write-to-file-error" level="error" />
+		</Async>
+		
+	</Appenders>
+	
+	<Loggers>
+		<Logger name="com" additivity="false" level="info">
+			<!-- <AppenderRef ref="write-to-rolling-random-access-file" />
+			<AppenderRef ref="write-to-file-error" level="error" /> -->
+			<AppenderRef ref="async" />
+		</Logger>
+		
+        <Root level="info">
+            <!-- <AppenderRef ref="write-to-file" /> -->
+            <AppenderRef ref="write-to-console" />
+            <!-- <AppenderRef ref="write-to-file-error" level="error"/> -->
+        </Root>
+        
+	</Loggers>
+
+</Configuartion>
