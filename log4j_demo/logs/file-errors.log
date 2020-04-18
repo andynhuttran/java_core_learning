@@ -1,0 +1,800 @@
+2020-04-18 08:56:18.533 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.536 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.536 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.536 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.536 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.536 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.537 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.538 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.539 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.539 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.539 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.539 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.542 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.543 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.544 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.545 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.546 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.547 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.548 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.549 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.550 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.551 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.552 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.553 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.554 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.555 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.556 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.556 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.556 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.556 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.556 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.557 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.560 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]

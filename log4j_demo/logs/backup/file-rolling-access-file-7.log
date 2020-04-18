@@ -1,0 +1,37 @@
+2020-04-18 08:56:18.558 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 190|
+2020-04-18 08:56:18.558 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 190|
+2020-04-18 08:56:18.558 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 191|
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 191|
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 192|
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 192|
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 193|
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 193|
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 194|
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 194|
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 195|
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - New message is: Hello Cole: 195|
+2020-04-18 08:56:18.559 [ERROR] [main] com.javalearning.log4j_demo.MainDemo: - bad thing|
+java.lang.Exception: do bad thing
+	at com.javalearning.log4j_demo.MainDemo.doBadThing(MainDemo.java:27) [classes/:?]
+	at com.javalearning.log4j_demo.MainDemo.main(MainDemo.java:41) [classes/:?]
+2020-04-18 08:56:18.559 [INFO ] [main] com.javalearning.log4j_demo.MainDemo: - Message is: Cole: 196|
