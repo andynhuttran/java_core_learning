@@ -14,11 +14,11 @@ There are something we should know about log4j configuration. [here](https://git
    2.2 <Appenders> define the way to write log to user, in this example there are two kind of log: log to console and file. We have some kind of file.
    It said that: RollingRandomAccessFile and Async could improve performance better
    
-   2.3 <Loggers> contain 2 tag <Logger> and <Root>:
+   2.3 Loggers tag contain 2 tags Logger and Root:
    
-   <Root>: is on top, it apply for all files in project, remember to add <AppenderRef name="refer_to_appender_you_want_to_write_log">
+   Root: is on top, it applys for all files in project, remember to add <AppenderRef name="refer_to_appender_you_want_to_write_log">
    
-   <Logger>: you could define packages which is apply this log, remember to add <AppenderRef name="refer_to_appender_you_want_to_write_log">
+   Logger: you could define packages which is apply this log, remember to add <AppenderRef name="refer_to_appender_you_want_to_write_log">
    
-3. After finish configuration, take a look [here] (https://github.com/colenhuttran/java_core_learning/blob/master/log4j_demo/src/main/java/com/javalearning/log4j_demo/MainDemo.java)
+3. After finish configuration, take a look [here](https://github.com/colenhuttran/java_core_learning/blob/master/log4j_demo/src/main/java/com/javalearning/log4j_demo/MainDemo.java)
 to know how to use log4j. there are some kind of level log like: info, error, trace, debug...
