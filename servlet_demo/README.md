@@ -33,4 +33,17 @@
     2. Forward to another Servlet by using **RequestDispatcher.forward** function.
     3. Send data to another Servlet by **request.setAttribute** function.
     
-    Forward means a Servlet (in the same website) send data, request, response to another Servlet to process data. **Url is NOT changed**
+    Forward means a Servlet send data, request, response to another Servlet or pages (in the same website) to process data. **Url is NOT changed**
+
+4. Demo redirect in Servlet
+
+    Back-end: [refer link](https://github.com/colenhuttran/java_core_learning/blob/master/servlet_demo/src/main/java/com/javalearning/forward_redirect_demo/RedirectDemoServlet.java).
+    Font-end: [refer link](https://github.com/colenhuttran/java_core_learning/blob/master/servlet_demo/src/main/webapp/index.jsp).
+
+    **There is good stuff from the Demo**
+    
+    1. Using annotation to define Servlet by using **@WebServlet** instead of web.xml.
+    2. Redirect to another Servlet by using **HttpServletResponse.sendRedirect** function.
+    3. **Can NOT send data** to another Servlet when using Redirect.
+    
+    Redirect means a Servlet send request, response to another Servlet or any page (same or different Website) to process data. **Url is changed**
