@@ -29,6 +29,19 @@
 	<input type="submit" value="Call Servlet and Forward" />
 </form>
 
+<hr /> Demo call Servlet and Redirect <br />
+<form action="redirectServlet" method="get">
+	Do you want to use redirect? <br /> 
+	
+	<input type="radio" name="redirect" value="yes"/>
+	<label for="yes">Yes</label><br>
+	
+	<input type="radio" name="redirect" value="no"/>
+	<label for="no">No</label><br>
+	
+	<input type="submit" value="Call Servlet and Redirect" />
+</form>
+
 
 </body>
 </html>
