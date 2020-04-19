@@ -21,7 +21,16 @@
     2.3 Implement **front-end** by creating from to submit request to Server in *index.jsp* [refer link](https://github.com/colenhuttran/java_core_learning/blob/master/servlet_demo/src/main/webapp/index.jsp)
     
     2.4 Right click to project > **Run As > Run on Server**
+   
+3. Demo forward in Servlet
+
+    Back-end: [refer link](https://github.com/colenhuttran/java_core_learning/blob/master/servlet_demo/src/main/java/com/javalearning/forward_redirect_demo/ForwardDemoServlet.java).
+    Font-end: [refer link](https://github.com/colenhuttran/java_core_learning/blob/master/servlet_demo/src/main/webapp/index.jsp).
     
+    **There is good stuff from the Demo**
     
+    1. Using annotation to define Servlet by using **@WebServlet** instead of web.xml.
+    2. Forward to another Servlet by using **RequestDispatcher.forward** function.
+    3. Send data to another Servlet by **request.setAttribute** function.
     
-    
+    Forward means a Servlet (in the same website) send data, request, response to another Servlet to process data. **Url is NOT changed**
